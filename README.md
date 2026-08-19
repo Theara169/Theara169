@@ -1,16 +1,46 @@
 ## Hi there 👋
 
-<!--
-**Theara169/Theara169** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# [Keo Theara]
+
+### [A short title about you]
+
+1.I always drink coffee everyday.
+2.I love my fri
+
+
+---
+
+## About Me
+
+* **Name:** [keo Theara]
+* **Major:** [Data Scientist]
+* **Year:** [2]
+* **Favorite App:** [facebook]
+* **Interests:** [Computer Scientist]
+
+---
+
+## What I Am Learning
+
+Currently, I am learning:
+
+* **Git & GitHub**
+* **JavaScript Fundamentals**
+
+---
+
+## My Interests
+
+* [Learn How to it work in the system]
+* [reading]
+* [stayfocus]
+
+---
+
+## Contact
+
+* **Telegram:** @[keotheara]
+* **Email:** [thearakeo92@gmail.com]
