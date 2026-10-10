@@ -38,7 +38,7 @@ Software Engineering  and Data Scientist focused on backend development and AI-p
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" title="postman"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" title="GraphQL"/>
 <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="40" title="Nginx"/>
-<img src="https://res.cloudinary.com/t6wyjwqt/image/upload/v1791610854/1708971797430.png" width="50" title="Numpy"/>
+<img src="https://res.cloudinary.com/t6wyjwqt/image/upload/v1791610854/1708971797430.png" width="40" high="40" title="Numpy"/>
 
 
 </p>
