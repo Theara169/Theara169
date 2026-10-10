@@ -39,6 +39,9 @@ Software Engineering  and Data Scientist focused on backend development and AI-p
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" title="GraphQL"/>
 <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="40" title="Nginx"/>
 <img src="https://res.cloudinary.com/t6wyjwqt/image/upload/v1791610854/1708971797430.png" width="40" high="40" title="Numpy"/>
+<img src="https://opencv.org/wp-content/uploads/2025/02/image-20.png" width="40" title="pandas"/>
+<img src="https://avatars.githubusercontent.com/u/17349883?s=280&v=4" width="40" title="scikit" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-F-UAuW_yIJgV3hTUXBWEdTDxVuDS-45vksg_TC74oKmpkGuVpQ7iIeVY&s=10" width="40" title="tensorflow" />
 
 
 </p>
