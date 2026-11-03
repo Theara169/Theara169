@@ -3,7 +3,14 @@
 
 ### About Me
 
-Software Engineering  and Data Scientist focused on backend development and AI-powered applications.
+I'm a **Software Engineer and Data Scientist** focused on backend development, system architecture, and AI-powered applications. I enjoy building scalable, reliable systems and transforming data into intelligent solutions through machine learning and artificial intelligence.
+
+-  **Software Engineering:** Designing clean, maintainable, and scalable applications.
+-  **Backend Development:** Building APIs, backend services, authentication systems, and database architectures.
+-  **AI & Machine Learning:** Developing machine learning models, NLP applications, and AI-powered features.
+-  **Data Science:** Exploring datasets, performing statistical analysis, and extracting meaningful insights.
+-  **System Design:** Learning to design reliable, efficient, and scalable software systems.
+- **Continuous Learning:** Improving my engineering skills through hands-on projects, experimentation, and problem-solving.
 
 ---
 
