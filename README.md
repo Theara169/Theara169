@@ -13,7 +13,7 @@ Software Engineering  and Data Scientist focused on backend development and AI-p
 ### Technical Focus
 
 - **Languages:** Python, TypeScript, C++, Java, SQL
-- **Frontend/Mobile:** React, React Native, HTML5, CSS3, TypeScript
+- **Frontend/Mobile:** React, React Native, TypeScript
 - **Backend:** Flask, FastAPI, NestJS, Express.js
 - **Databases:** PostgreSQL, MySQL, MongoDB, Redis
 - **API Development:** REST APIs, GraphQL, WebSocket, Socket.IO, Authentication & Security Best Practices
