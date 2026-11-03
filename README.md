@@ -9,12 +9,21 @@ Software Engineering  and Data Scientist focused on backend development and AI-p
 
 ### Technical Focus:
 
-- **Language:** Python, Typescript, C++, Java
-- **Frontend/Mobile:** React Native, React, TypeScript
-- **Backend:** Flask, FastAPI, NestJS, ExpressJs
-- **Databases:** PostgreSQL, MySQL, MongoDB
-- **API Development:** REST APIs, Graphql, WebSocket, Authentication & Security Best Practices  
-- **Deployment:** Render, Docker, GitHub Actions, Cloudflare, Nginx
+
+### Technical Focus
+
+- **Languages:** Python, TypeScript, C++, Java, SQL
+- **Frontend/Mobile:** React, React Native, HTML5, CSS3, TypeScript
+- **Backend:** Flask, FastAPI, NestJS, Express.js
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
+- **API Development:** REST APIs, GraphQL, WebSocket, Socket.IO, Authentication & Security Best Practices
+- **Data Science:** NumPy, Pandas, SciPy, Matplotlib, Seaborn, Exploratory Data Analysis (EDA), Statistical Analysis, Data Cleaning, Feature Engineering, Data Visualization
+- **Machine Learning:** Scikit-learn, PyTorch, TensorFlow, Supervised Learning, Unsupervised Learning, Classification, Regression, Clustering, Model Evaluation, Hyperparameter Tuning
+- **AI & Deep Learning:** Neural Networks, Natural Language Processing (NLP), Transformers, Large Language Models (LLMs), Text Classification, Embeddings, Transfer Learning, Generative AI
+- **AI Engineering:** Retrieval-Augmented Generation (RAG), Vector Search, Recommendation Systems, Prompt Engineering, LLM Integration, AI Model Deployment
+- **MLOps & Data Engineering:** ETL Pipelines, Data Processing, ML Pipelines, Experiment Tracking, Model Versioning, Model Monitoring, CI/CD for Machine Learning
+- **Deployment & Infrastructure:** Render, Docker, GitHub Actions, Cloudflare, Nginx, Linux, Git, GitHub
+
 
 ---
 ### Used Tools & Technologies:
