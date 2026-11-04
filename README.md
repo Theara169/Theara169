@@ -1,5 +1,5 @@
 <h1 align="center">My Name is Keo Theara</h1>
-<h3 align="center">Aspiring Backend Developer | AI Systems Engineer | Data Scientist</h3>
+<h3 align="center">Aspiring Backend Developer | AI Systems Engineer | Data Scientist | AI Engineer </h3>
 
 ### About Me
 
@@ -7,9 +7,7 @@ I'm a **Software Engineer and Data Scientist** focused on backend development, s
 
 -  **Software Engineering:** Designing clean, maintainable, and scalable applications.
 -  **Backend Development:** Building APIs, backend services, authentication systems, and database architectures.
--  **AI & Machine Learning:** Developing machine learning models, NLP applications, and AI-powered features.
 -  **Data Science:** Exploring datasets, performing statistical analysis, and extracting meaningful insights.
--  **System Design:** Learning to design reliable, efficient, and scalable software systems.
 - **Continuous Learning:** Improving my engineering skills through hands-on projects, experimentation, and problem-solving.
 
 ---
@@ -26,9 +24,7 @@ I'm a **Software Engineer and Data Scientist** focused on backend development, s
 - **API Development:** REST APIs, GraphQL, WebSocket, Socket.IO, Authentication & Security Best Practices
 - **Data Science:** NumPy, Pandas, SciPy, Matplotlib, Seaborn, Exploratory Data Analysis (EDA), Statistical Analysis, Data Cleaning, Feature Engineering, Data Visualization
 - **Machine Learning:** Scikit-learn, PyTorch, TensorFlow, Supervised Learning, Unsupervised Learning, Classification, Regression, Clustering, Model Evaluation, Hyperparameter Tuning
-- **AI & Deep Learning:** Neural Networks, Natural Language Processing (NLP), Transformers, Large Language Models (LLMs), Text Classification, Embeddings, Transfer Learning, Generative AI
 - **AI Engineering:** Retrieval-Augmented Generation (RAG), Vector Search, Recommendation Systems, Prompt Engineering, LLM Integration, AI Model Deployment
-- **MLOps & Data Engineering:** ETL Pipelines, Data Processing, ML Pipelines, Experiment Tracking, Model Versioning, Model Monitoring, CI/CD for Machine Learning
 - **Deployment & Infrastructure:** Render, Docker, GitHub Actions, Cloudflare, Nginx, Linux, Git, GitHub
 
 
@@ -65,5 +61,5 @@ I'm a **Software Engineer and Data Scientist** focused on backend development, s
 ---
 
 ### How to reach me:
-- Email: [thearakeo92@gmail.com]  
+- Email: [thearakeo92@gmail.com](thearakeo92@gmail.com)  
 - GitHub: [https://github.com/Theara169](https://github.com/Theara169)   
